@@ -3,7 +3,7 @@ title: "Prediction of Fishing Activities based on Machine Learning Techniques us
 collection: publications
 category: conferences
 date: 2024-06-07
-paperurl: 'http://franciscopaiva123.github.io/files/paper3.pdf'
+paperurl: 'http://franciscopaiva123.github.io/files/96737-francisco-paiva.pdf'
 ---
 
 **Abstract** Illegal, Unreported and Unregulated (IUU) fishing equates to approximately 11-19% of reported global
